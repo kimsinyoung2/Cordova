@@ -1,0 +1,49 @@
+.conta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.slide{
+    margin: 0;
+    width: 200vw;
+    height: 100%;
+    display: flex;
+}
+ 
+.toleft, .toright {
+    width: 40%; 
+    text-align: center;
+    padding-top: 13em;
+    cursor:pointer;
+}
+.toleft{float: left;}
+.toright{float: right;}
+ 
+.content{
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.slides {
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    transition:all .5s;
+}
+.slides img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+@media (max-width: 600px) {
+    .slide img{
+        width: 100%;
+    }
+    .toleft, .toright {
+        width: 10%;
+    }
+}
