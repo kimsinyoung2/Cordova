@@ -1,5 +1,5 @@
 # 6주차 수업
-**Jquery를 활용한 자신만의 DIT소개 페이지 만들기**
+**jQuery를 활용한 자신만의 DIT소개 페이지 만들기**
 
 메인
 ![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/c19e8568-4d87-4891-9193-54574e67ebd2)
