@@ -5,3 +5,10 @@
 자기소개
 ![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/8a0757ab-3ae2-4914-9b69-b100f5f1816d)
 인적
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/cfabd095-6b7f-4412-bf4f-7ed942c2a0fb)
+학술
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/32d2827c-74b7-4586-b1ef-b80df7f19064)
+경력
+
+---
+**네비게이션 바 형식으로 변경**
