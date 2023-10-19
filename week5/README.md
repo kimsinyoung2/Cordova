@@ -12,7 +12,7 @@
 
 
 ---
-**네비게이션 바 형식으로 변경**
+**내비게이션 바 형식으로 변경**
 
 자기소개
 ![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/20f55af1-f65d-47e6-b930-10c6bf9edf00)
