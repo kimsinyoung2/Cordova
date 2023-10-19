@@ -1,3 +1,3 @@
 # Cordova
 
-#https://kimsinyoung2.github.io/Cordova/
+https://kimsinyoung2.github.io/Cordova/
