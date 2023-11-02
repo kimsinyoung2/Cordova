@@ -2,18 +2,26 @@
 **jQuery를 활용한 자신만의 DIT소개 페이지 만들기**
 
 메인
-![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/c19e8568-4d87-4891-9193-54574e67ebd2)
+
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/f39ae991-3d76-44ad-8ca5-bd7c979aeac4)
+
 
 학과소개
-![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/5fccca41-0117-469e-8b50-f283d252c406)
+
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/7417e9da-645d-4ddd-b7a3-4f4734d9bf78)
+
 
 학과영상
 
-![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/3242fb15-d210-4189-8bb7-ee8b97825b69)
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/3e89a2d6-1c2b-4c07-b00b-bcbc33fecfde)
+
 
 교수소개
 
-![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/cbcaad49-fee6-4b70-b424-086e48d1811f)
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/9bc3f7f0-5076-401f-8608-423f177e757b)
+
 
 학과사진
-![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/0f03fff8-1998-461c-a9ee-625b9df19b75)
+
+![image](https://github.com/kimsinyoung2/Cordova/assets/105351819/b1b4ce0b-ebb1-4599-959c-aec7d04d4f6a)
+
